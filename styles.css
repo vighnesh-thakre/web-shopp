@@ -1,8 +1,4 @@
-@media (min-width:300px){
-   body{
-       max-size:400px;
-   } 
-}
+
 header{
     display: flex;
     justify-content: space-around;
